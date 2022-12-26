@@ -1,4 +1,4 @@
-![Su-kyung's GitHub stats](https://github-readme-stats.vercel.app/api?username=41ow1ives&show_icons=true&theme=vue&count_private=true)(https://github.com/anuraghazra/github-readme-stats)
+![Su-kyung's GitHub stats](https://github-readme-stats.vercel.app/api?username=41ow1ives&show_icons=true&theme=vue&count_private=true)
 
 
 
