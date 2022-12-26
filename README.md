@@ -19,7 +19,7 @@ There is more information about me at **[my Notion](https://41ow1ives.notion.sit
 
 
 
-## ✔ Undergradte Courseworks
+## ✔ Undergraduate Courseworks
 |    Semester    |           Lecture          |               Lecture Name in English              |
 |:--------------:|:--------------------------:|:--------------------------------------------------:|
 |   2018 Spring  |     컴퓨팅사고와SW코딩     |        Computational Thinking and SW Coding        |
