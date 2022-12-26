@@ -1,4 +1,4 @@
-![Su-kyung's GitHub stats](https://github-readme-stats.vercel.app/api?username=41ow1ives&show_icons=true&theme=flag-india&count_private=true)
+![Su-kyung's GitHub stats](https://github-readme-stats.vercel.app/api?username=41ow1ives&show_icons=true&theme=vue&count_private=true)
 
 
 
