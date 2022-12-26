@@ -1,4 +1,7 @@
-## 🐰 Hi there, This is Sukyung's Github
+![Su-kyung's GitHub stats](https://github-readme-stats.vercel.app/api?username=su-kyung&show_icons=true&theme=vue)
+
+
+## 🐰 Hi there, This is Su-kyung's Github
 Hi, I'm Sukyung Lee. I'm intereseted in deep learning, data analysis, and data visualization.  
 There is more information about me at **[my Notion](https://41ow1ives.notion.site/Portfolio-3674b1051709484a9e33a3e50138db1b)** feel free to see it! 💗
 
