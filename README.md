@@ -3,19 +3,21 @@ Hi, I'm Sukyung Lee. I'm intereseted in deep learning, data analysis, and data v
 There is more information about me at **[my Notion](https://41ow1ives.notion.site/Portfolio-3674b1051709484a9e33a3e50138db1b)** feel free to see it! 💗
 
 
+
 ## ✔ Experiences
 - `2018.03 ~ 2023.08` Sungkyunkwan University Data Science, Statistics
-- `2020.03 ~ 2022.02` Reporter of <i>The Sungkyun Times</i>
-- `2020.08 ~ 2020.12` Team member of the Deep Learning Team in <i>[P-SAT](https://github.com/p-sat)</i>
-- `2021.01 ~ 2021.06` Team leader of the Deep Learning Team in <i>P-SAT</i>
+- `2022.09 ~ 2023.02` Naver Boostcamp AI Tech 4th
 - `2021.07 ~ 2022.08` Member of Analysis session & Visualization session in <i>[BOAZ](https://github.com/BOAZ-bigdata)</i>
-- `2021.08 ~ 2021.12` Team member of the Alpha Team in <i>P-SAT</i>
+- `2020.03 ~ 2022.02` Reporter of <i>The Sungkyun Times</i>
+- `2021.08 ~ 2021.12` Team member of the Alpha Team in <i>[P-SAT](https://github.com/p-sat)</i>
+- `2021.01 ~ 2021.06` Team leader of the Deep Learning Team in <i>P-SAT</i>
+- `2020.08 ~ 2020.12` Team member of the Deep Learning Team in <i>P-SAT</i>
 
 
 
 ## ✔ Tech Stack
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/> <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white"/> <img src="https://img.shields.io/badge/-QGIS-brightgreen?style=flat&logo=Qgis&logoColor=white"/> <img src = "https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white"/>
-<img src = "https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white"/> <img src="https://img.shields.io/badge/-streamlit-red?style=flat&logo=Streamlit&logoColor=white"/> <img src = "https://img.shields.io/badge/-selenium-%43B02A?style=flat&logo=selenium&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white"/>
+<img src = "https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white"/> <img src="https://img.shields.io/badge/-streamlit-red?style=flat&logo=Streamlit&logoColor=white"/> <img src = "https://img.shields.io/badge/-selenium-%43B02A?style=flat&logo=selenium&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/> <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white"/> <img src="https://img.shields.io/badge/-QGIS-brightgreen?style=flat&logo=Qgis&logoColor=white"/> <img src = "https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white"/>
 
 
 
