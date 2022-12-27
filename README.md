@@ -10,7 +10,7 @@ There is more information about me at **[my Notion](https://41ow1ives.notion.sit
 
 ## ✔ Experiences
 - `2018.03 ~ 2023.08` Sungkyunkwan University Data Science, Statistics
-- `2022.09 ~ 2023.02` Naver Boostcamp AI Tech 4th
+- `2022.09 ~ 2023.02` NAVER Connect Foundation - boostcamp AI Tech 4th
 - `2021.07 ~ 2022.08` Member of Analysis session & Visualization session in <i>[BOAZ](https://github.com/BOAZ-bigdata)</i>
 - `2020.03 ~ 2022.02` Reporter of <i>The Sungkyun Times</i>
 - `2021.08 ~ 2021.12` Team member of the Alpha Team in <i>[P-SAT](https://github.com/p-sat)</i>
