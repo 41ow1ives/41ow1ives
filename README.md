@@ -52,3 +52,7 @@ There is more information about me at **[my Notion](https://41ow1ives.notion.sit
 |   2022 Spring  |       범주형자료분석       |              Categorical Data Analysis             |
 |   2022 Spring  |       통계적추론입문       |       Introduction to Statistical Inferences       |
 |   2022 Spring  |          통계수학          |             Mathematics for Statistics             |
+
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F41ow1ives&count_bg=%23FFE565&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
