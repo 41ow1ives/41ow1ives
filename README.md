@@ -8,7 +8,7 @@ There is more information about me at **[my Notion](https://41ow1ives.notion.sit
 <br/>
 <br/>
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=flat&link=mailto:77601251a@gmail.com)](mailto:77601251a@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&style=flat&link=https://www.linkedin.com/in/%EC%88%98%EA%B2%BD-%EC%9D%B4-a9b628264/)<a href="https://www.linkedin.com/in/%EC%88%98%EA%B2%BD-%EC%9D%B4-a9b628264/">
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&style=flat&link=https://www.linkedin.com/in/%EC%88%98%EA%B2%BD-%EC%9D%B4-a9b628264/)](https://www.linkedin.com/in/%EC%88%98%EA%B2%BD-%EC%9D%B4-a9b628264/)
 
 
 ## ✔ Experiences
